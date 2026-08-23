@@ -82,7 +82,7 @@
 <!-- 统计与贡献日历 - 使用自适应布局 -->
 <div align="center">
   <!-- GitHub 基础数据统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lionelZhaowy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=lionelZhaowy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" /> -->
   
   <br><br>
 
